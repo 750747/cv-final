@@ -1,0 +1,18 @@
+body {
+    background-color: #EAF6F6;
+}
+
+/* if we want dotted line in our webpages using horizontal role  */
+
+hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color:rgb(124, 120, 120);
+    border-width: 5px;
+    width: 100px;
+
+}
+h1{
+    color: #53BF9D;
+}
